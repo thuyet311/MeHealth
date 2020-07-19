@@ -1,0 +1,1 @@
+var __vnp = {code : 1956,key:'', secret : 'e40ab74ebc4777476ed59a9cea53ec7e'};(function() {var ga = document.createElement('script');ga.type = 'text/javascript';ga.async=true; ga.defer=true;ga.src = '//core.vchat.vn/code/tracking.js';var s = document.getElementsByTagName('script');s[0].parentNode.insertBefore(ga, s[0]);})();

@@ -1,0 +1,35 @@
+:root{
+    --title-blue:#01a9b4;
+}
+h2 {
+    margin-top: 5rem;
+    color: var(--title-blue);
+    font-family: 'Varela Round', sans-serif;
+}
+h3 {
+    margin: 1rem;
+    color:#0a97b0;
+    font-family: 'Varela Round', sans-serif;
+}
+h4 {
+    color: var(--title-blue);
+    font-size: 1.5rem;
+}
+.card {
+    width: 100%;
+}
+.form-container {
+    margin: 2rem 2rem;
+}
+.compute {
+    margin-top: 2rem;
+    background-color: var(--title-blue);
+    color: black;
+}
+.result {
+    margin: 1rem;
+}
+.contact {
+    padding-top: 1rem;
+    display: inline;
+}
